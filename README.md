@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Project-2---Memory-card-game---Prashanth-G
+A memory game where players memorize 5 random numbers and enter the correct sequence. The game has 3 rounds, with scores ranging from 0/3 to 3/3. Each score displays a different result message, and players can restart the game after completion.
+>>>>>>> da62e992218342cd84ead3dcafd3d955fb892e6b
