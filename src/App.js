@@ -25,6 +25,11 @@ function App() {
 
   const checkAnswer = () => {
 
+    if (input.trim() === "") {
+    setCorrect("Please enter a number");
+    return;
+    }
+
     if (round === 3 && message) {
     setRound(1);
     setScore(0);
